@@ -3,7 +3,7 @@
 # unique email addresses. The delimiters to support are commas (',')
 # or whitespace (' ').
 
-
+binding 'pry'
 
 class EmailAddressParser
   
@@ -17,7 +17,7 @@ class EmailAddressParser
     split_emails = @email.split(/,| /)
     split_emails.uniq
     
-    
+    binding.pry
   end
   
   
