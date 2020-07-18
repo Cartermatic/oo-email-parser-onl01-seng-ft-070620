@@ -17,12 +17,12 @@ class EmailAddressParser
     split_emails = @email.split(/,| /)
     split_emails.uniq
     
-    binding.pry
+    
   end
   
   
   
-  
+  binding.pry
   
   
   
