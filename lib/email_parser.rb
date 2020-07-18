@@ -6,3 +6,22 @@
 
 
 class EmailAddressParser
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+end
