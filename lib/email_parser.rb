@@ -3,7 +3,7 @@
 # unique email addresses. The delimiters to support are commas (',')
 # or whitespace (' ').
 
-binding 'pry'
+binding'pry'
 
 class EmailAddressParser
   
