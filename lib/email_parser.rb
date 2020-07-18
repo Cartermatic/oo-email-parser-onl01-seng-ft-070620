@@ -9,7 +9,8 @@ class EmailAddressParser
   
   
   
-  
+  def parse
+    
   
   
   
